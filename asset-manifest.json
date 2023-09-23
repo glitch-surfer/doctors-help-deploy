@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/doctors-help-deploy/static/css/main.2548dc22.css",
+    "main.js": "/doctors-help-deploy/static/js/main.27a7ac44.js",
+    "static/media/main-avatar.webp": "/doctors-help-deploy/static/media/main-avatar.8be7fb6484a17a3900dd.webp",
+    "index.html": "/doctors-help-deploy/index.html",
+    "main.2548dc22.css.map": "/doctors-help-deploy/static/css/main.2548dc22.css.map",
+    "main.27a7ac44.js.map": "/doctors-help-deploy/static/js/main.27a7ac44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2548dc22.css",
+    "static/js/main.27a7ac44.js"
+  ]
+}
