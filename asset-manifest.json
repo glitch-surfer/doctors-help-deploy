@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/doctors-help-deploy/static/css/main.2548dc22.css",
-    "main.js": "/doctors-help-deploy/static/js/main.27a7ac44.js",
-    "static/media/main-avatar.webp": "/doctors-help-deploy/static/media/main-avatar.8be7fb6484a17a3900dd.webp",
+    "main.css": "/doctors-help-deploy/static/css/main.de61e595.css",
+    "main.js": "/doctors-help-deploy/static/js/main.059b8a54.js",
+    "static/media/logo.webp": "/doctors-help-deploy/static/media/logo.f2b2b0c84aca2c4614b8.webp",
+    "static/media/email-icon.webp": "/doctors-help-deploy/static/media/email-icon.460c3debade2a3a6ce0f.webp",
     "index.html": "/doctors-help-deploy/index.html",
-    "main.2548dc22.css.map": "/doctors-help-deploy/static/css/main.2548dc22.css.map",
-    "main.27a7ac44.js.map": "/doctors-help-deploy/static/js/main.27a7ac44.js.map"
+    "main.de61e595.css.map": "/doctors-help-deploy/static/css/main.de61e595.css.map",
+    "main.059b8a54.js.map": "/doctors-help-deploy/static/js/main.059b8a54.js.map"
   },
   "entrypoints": [
-    "static/css/main.2548dc22.css",
-    "static/js/main.27a7ac44.js"
+    "static/css/main.de61e595.css",
+    "static/js/main.059b8a54.js"
   ]
 }
