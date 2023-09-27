@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/doctors-help-deploy/static/css/main.de61e595.css",
-    "main.js": "/doctors-help-deploy/static/js/main.059b8a54.js",
+    "main.css": "/doctors-help-deploy/static/css/main.d6cc548e.css",
+    "main.js": "/doctors-help-deploy/static/js/main.5863a712.js",
     "static/media/logo.webp": "/doctors-help-deploy/static/media/logo.f2b2b0c84aca2c4614b8.webp",
-    "static/media/email-icon.webp": "/doctors-help-deploy/static/media/email-icon.460c3debade2a3a6ce0f.webp",
     "index.html": "/doctors-help-deploy/index.html",
-    "main.de61e595.css.map": "/doctors-help-deploy/static/css/main.de61e595.css.map",
-    "main.059b8a54.js.map": "/doctors-help-deploy/static/js/main.059b8a54.js.map"
+    "main.d6cc548e.css.map": "/doctors-help-deploy/static/css/main.d6cc548e.css.map",
+    "main.5863a712.js.map": "/doctors-help-deploy/static/js/main.5863a712.js.map"
   },
   "entrypoints": [
-    "static/css/main.de61e595.css",
-    "static/js/main.059b8a54.js"
+    "static/css/main.d6cc548e.css",
+    "static/js/main.5863a712.js"
   ]
 }
